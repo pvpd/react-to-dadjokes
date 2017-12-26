@@ -35,6 +35,7 @@
     ],
     "newline-before-return": false,
     "no-any": false,
+    "no-console": false,
     "no-inferrable-types": [
       true,
       "ignore-params",

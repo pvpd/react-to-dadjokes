@@ -1,7 +1,10 @@
 {
   "name": "react-redux-typescript-webpack-starter",
   "version": "0.1.0",
-  "description": "React / Redux / Typescript / Webpack2 - App Starter",
+  "description": "toto",
+  "homepage": "https://github.com/pvpd/react-to-dadjokes",
+  "repository": "https://github.com/pvpd/react-to-dadjokes.git",
+  "bugs": "https://github.com/pvpd/react-to-dadjokes/issues",
   "license": "MIT",
   "main": "dist/app.js",
   "scripts": {
@@ -16,8 +19,6 @@
     "test:update": "jest --config jest.json -u",
     "reinstall": "rm -rf node_modules && yarn",
     "reinstall:win": "rd /s /q node_modules && yarn",
-    "precommit": "yarn run lint",
-    "prepush": "yarn run lint & yarn run tsc & yarn run test",
     "deploy": "echo 'deploy not set!'"
   },
   "dependencies": {
