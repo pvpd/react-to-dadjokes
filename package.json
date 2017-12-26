@@ -2,10 +2,6 @@
   "name": "react-redux-typescript-webpack-starter",
   "version": "0.1.0",
   "description": "React / Redux / Typescript / Webpack2 - App Starter",
-  "author": "Piotr Witek <piotrek.witek@gmail.com> (https://piotrwitek.github.io/)",
-  "homepage": "https://piotrwitek.github.io/react-redux-typescript-webpack-starter/",
-  "repository": "https://github.com/piotrwitek/react-redux-typescript-webpack-starter.git",
-  "bugs": "https://github.com/piotrwitek/react-redux-typescript-webpack-starter/issues",
   "license": "MIT",
   "main": "dist/app.js",
   "scripts": {
